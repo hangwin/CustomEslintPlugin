@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-custom",
+  "name": "@personal/eslint-plugin-custom",
   "version": "0.0.0",
   "description": "校验某些语句上面是否有注释的插件",
   "keywords": [
